@@ -11,7 +11,6 @@ class EmailAddressParser
   end
 
   def parse
-    array = []
-
+    email_addresses.split.collect do |email|
   end
 end
