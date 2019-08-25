@@ -12,6 +12,6 @@ class EmailAddressParser
 
   def parse
     array = []
-    
+
   end
 end
